@@ -17,6 +17,10 @@ A reprodução, total ou parcial, é permitida somente para uso acadêmico, com 
 📖 Recomenda-se que este material seja utilizado como complemento a aulas, livros e referências oficiais, e não como substituto dos mesmos.
 
 
+
+
+
+
 Aulas:
 1 - Planejamento e otimização de experimentos 
 
