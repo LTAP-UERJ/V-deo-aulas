@@ -15,17 +15,22 @@ A reprodução, total ou parcial, é permitida somente para uso acadêmico, com 
 
 
 Aulas:
-1 - Planejamento e otimização de experimentos
+1 - Planejamento e otimização de experimentos 
+
 Drive: https://drive.google.com/drive/folders/1gd0fu2w24QSUHCnC4C7eqbw9uRgGtslw?usp=drive_link
 
 2 - Quimiometria - Reconhecimento de padrão, Calibração e missing data
+
 Drive: https://drive.google.com/drive/folders/11_nnACERgURZZqGauPaMFNccvSqNS7r3?usp=drive_link
 
 3 - Reconhecimento de padrões
+
 Drive: https://drive.google.com/drive/folders/1di3jSgKWB0I3BlJi2cYQGQ1sMIUD2n6L?usp=sharing
 
 4 - Preparo de amostras - compostos orgânicos
+
 Drive: https://drive.google.com/drive/folders/1VfEcGbj046ybrYojUrr2-0MnlIeqECWZ?usp=sharing
 
 5 - Mini curso Calibração de ordem 2
+
 Drive: https://drive.google.com/drive/folders/1aQLKaSMIlYjBRZyH7gEIgR47qZc9A9ri?usp=sharing
